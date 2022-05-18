@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": " Nasi Goreng",
+    "category": "Makanan Berat",
+    "imageUrl": "https://media.suara.com/pictures/970x544/2022/01/05/49087-makanan-khas-indonesia.jpg",
+    "Bahan": "600 g nasi putih.",
+    "Langkah": "1.Panaskan minyak, tumis bawang putih, bawang merah hingga harum."
+  },
+  {
+    "id": 1,
+    "name": " Nasi Goreng Merah",
+    "category": "Makanan Berat",
+    "imageUrl": "https://media.suara.com/pictures/970x544/2022/01/05/49087-makanan-khas-indonesia.jpg",
+    "Bahan": "    600 g nasi putih.\n    70 g wortel, kupas, potong dadu kecil.\n    1 siung bawang putih, iris halus.\n    3 butir bawang merah, iris halus.\n    2 buah cabai merah, iris serong.\n    2 sdm Bango Kecap Manis.\n    1 sdm Royco Kaldu Ayam.\n    1 batang daun bawang.",
+    "Langkah": " \n1.Panaskan minyak, tumis bawang putih, bawang merah hingga harum.\n2.Masukkan wortel dan cabai, aduk hingga tercampur rata. Masak hingga wortel mulai layu.\n3.Tambahkan nasi, Royco Kaldu Ayam, dan Bango Kecap Manis, aduk rata.\n4.Tambahkan daun bawang, aduk rata. Angkat dan sajikan telur mata sapi\n"
+  },
+  {
+    "id": 3,
+    "name": " Nasi Goreng Spesial",
+    "category": "Makanan Berat",
+    "imageUrl": "https://media.suara.com/pictures/970x544/2022/01/05/49087-makanan-khas-indonesia.jpg",
+    "Bahan": "    600 g nasi putih.\n    70 g wortel, kupas, potong dadu kecil.\n    1 siung bawang putih, iris halus.\n    3 butir bawang merah, iris halus.\n    2 buah cabai merah, iris serong.\n    2 sdm Bango Kecap Manis.\n    1 sdm Royco Kaldu Ayam.\n    1 batang daun bawang.",
+    "Langkah": "1.Panaskan minyak, tumis bawang putih, bawang merah hingga harum.\n2.Masukkan wortel dan cabai, aduk hingga tercampur rata. Masak hingga wortel mulai layu.\n3.Tambahkan nasi, Royco Kaldu Ayam, dan Bango Kecap Manis, aduk rata.\n4.Tambahkan daun bawang, aduk rata. Angkat dan sajikan telur mata sapi\n"
+  },
+  {
+    "id": 0,
+    "name": " Nasi Goreng Biasa aja",
+    "category": "Makanan Berat",
+    "imageUrl": "https://media.suara.com/pictures/970x544/2022/01/05/49087-makanan-khas-indonesia.jpg",
+    "Bahan": "    600 g nasi putih.\n    70 g wortel, kupas, potong dadu kecil.\n    1 siung bawang putih, iris halus.\n    3 butir bawang merah, iris halus.\n    2 buah cabai merah, iris serong.\n    2 sdm Bango Kecap Manis.\n    1 sdm Royco Kaldu Ayam.\n    1 batang daun bawang.",
+    "Langkah": " \n1.Panaskan minyak, tumis bawang putih, bawang merah hingga harum.\n2.Masukkan wortel dan cabai, aduk hingga tercampur rata. Masak hingga wortel mulai layu.\n3.Tambahkan nasi, Royco Kaldu Ayam, dan Bango Kecap Manis, aduk rata.\n4.Tambahkan daun bawang, aduk rata. Angkat dan sajikan telur mata sapi\n"
+  }
+]
